@@ -5,7 +5,7 @@ The dependencies for this are `ffmpeg` and a shell.
 Designed to work under *nix.
 
 
-The project is licensed under WTFPL. See LICENSE.txt for more.<br>
+The project is licensed under WTFPL. See `LICENSE.txt` for more.<br>
 To install, type `sudo make install`,<br>
 to uninstall, `sudo make uninstall`.<br>
 
