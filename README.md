@@ -1,3 +1,10 @@
 # This is a short shell script to convert an image or a video to a Discord compatible GIF. Credit goes to https://github.com/NovaFurr/ffmpeg-gif-converter
 
-## The project is licensed under WTFPL. See LICENSE.txt for more.
+
+The dependencies for this are `ffmpeg` and a shell. 
+Designed to work under *nix.
+
+
+The project is licensed under WTFPL. See LICENSE.txt for more. 
+To install, type 'sudo make install', 
+to uninstall, 'sudo make uninstall'.
